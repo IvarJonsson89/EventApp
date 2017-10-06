@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BrowserAttendVC viewDidLoad]:BrowserAttendVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "Events">
+            </PersistentString>
+            <PersistentString
+               value = "AllEvent">
+            </PersistentString>
+            <PersistentString
+               value = "array1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BrowserDateVC viewDidLoad]:BrowserDateVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BrowserDateVC searchBar:textDidChange:]:BrowserDateVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BrowserAttendVC tableView:cellForRowAtIndexPath:]:BrowserAttendVC.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
